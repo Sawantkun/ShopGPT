@@ -1,0 +1,16 @@
+.footer{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    background: var(--primary-color);
+}
+.footer-text{
+    line-height: 30px;
+    color: #ececec; 
+}
+.footer__quick-links ul li{
+    background: transparent !important;
+
+}
+.footer__quick-links ul li a{
+    color: ;
+}
