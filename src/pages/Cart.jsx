@@ -1,8 +1,12 @@
 import React from 'react'
+import Helmet from "../components/Helmet/Helmet"
+import CommonSection from "../components/UI/CommonSection"
 
 const cart = () => {
   return (
-    <div>cart</div>
+      <Helmet title="Cart">
+          <CommonSection title="Cart"/>
+      </Helmet>
   )
 }
 
